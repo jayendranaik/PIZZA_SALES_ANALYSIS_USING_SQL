@@ -1,0 +1,28 @@
+Basic:
+1) Retrieve the total number of orders placed.
+2) Calculate the total revenue generated from pizza sales.
+3) Identify the highest-priced pizza.
+4) Identify the most common pizza size ordered.
+5) List the top 5 most ordered pizza types along with their quantities.
+6) Identify the date with the highest number of orders placed.
+7) Find the total quantity of pizzas ordered for each pizza size.
+8) List the names of all unique pizza categories.
+
+
+Intermediate:
+9) Join the necessary tables to find the total quantity of each pizza category ordered.
+10) Determine the distribution of orders by hour of the day.
+11) Join relevant tables to find the category-wise distribution of pizzas.
+12) Group the orders by date and calculate the average number of pizzas ordered per day.
+13) Determine the top 3 most ordered pizza types based on revenue.
+14) Determine the average revenue generated per order.
+15) Calculate the total revenue generated for each pizza size.
+16) Find the total number of orders placed for each day of the week.
+
+Advanced:
+17) Calculate the percentage contribution of each pizza type to total revenue.
+18) Analyze the cumulative revenue generated over time.
+19) Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+20) Calculate the monthly revenue generated from pizza sales.
+21) Identify Peak Hours for Pizza Orders.
+22) Identify the top 5 customers who generated the most revenue and their order details.
